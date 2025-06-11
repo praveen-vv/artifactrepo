@@ -22,6 +22,7 @@
     * Quickly jump to the definition of the symbol under your cursor.
 * **`Ctrl + F12`**: **File Structure Popup**
     * View the structure of the current file (functions, classes, variables) and navigate quickly.
+* **`Ctrl + Alt + Insert`**: **New object**
 
 ---
 
