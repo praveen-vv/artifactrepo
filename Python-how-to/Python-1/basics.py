@@ -1,0 +1,8 @@
+import sys
+import datetime
+
+print(datetime.datetime.now())
+
+print(datetime.datetime.now().timestamp())
+
+print("test")
